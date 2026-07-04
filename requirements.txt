@@ -1,4 +1,4 @@
 Plaintext
 streamlit
 gspread
-google-auth
+google-auth-oauthlib
